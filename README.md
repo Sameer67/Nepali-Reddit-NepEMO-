@@ -118,9 +118,3 @@ Please cite the following if you use this dataset in your research:
   journal={arXiv preprint arXiv:2512.22823},
   year={2025}
 }
-
-
-
-
-
-
