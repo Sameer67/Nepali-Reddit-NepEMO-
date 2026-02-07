@@ -87,6 +87,7 @@ Status: Under review at Neural Computing & Applications (Springer Nature)
 
 📌 Citation
 Please cite the following if you use this dataset in your research:
+```bibtex
 @article{sitoula2025nepemo,
   title={NepEMO: A Multi-Label Emotion and Sentiment Analysis on Nepali Reddit with Linguistic Insights and Temporal Trends},
   author={Sitoula, Sameer and Shahi, Tej Bahadur and Bhatt, Laxmi Prasad and Pokhrel, Anisha and Neupane, Arjun},
@@ -111,7 +112,7 @@ Author: Sameer Sitoula
 **Citation**
 
 Please cite the following if you use this dataset in your research:
-
+```bibtex
 @article{sitoula2025nepemo,
   title={NepEMO: A Multi-Label Emotion and Sentiment Analysis on Nepali Reddit with Linguistic Insights and Temporal Trends},
   author={Sitoula, Sameer and Shahi, Tej Bahadur and Bhatt, Laxmi Prasad and Pokhrel, Anisha and Neupane, Arjun},
