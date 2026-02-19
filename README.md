@@ -84,17 +84,6 @@ Status: Under review at Neural Computing & Applications (Springer Nature)
 
 ⚠️ Note: This dataset corresponds to the preprint version. Updates may occur depending on journal policies after acceptance.
 
-
-📌 Citation
-Please cite the following if you use this dataset in your research:
-@article{sitoula2025nepemo,
-  title={NepEMO: A Multi-Label Emotion and Sentiment Analysis on Nepali Reddit with Linguistic Insights and Temporal Trends},
-  author={Sitoula, Sameer and Shahi, Tej Bahadur and Bhatt, Laxmi Prasad and Pokhrel, Anisha and Neupane, Arjun},
-  journal={arXiv preprint arXiv:2512.22823},
-  year={2025}
-}
-
-
 ⚖️ License
 This dataset is released for research and academic use only.
 Please do not use it for commercial purposes without permission.
@@ -108,10 +97,10 @@ For questions, feedback, or collaboration:
 
 Author: Sameer Sitoula
 
-**Citation**
-
+📌 Citation
 Please cite the following if you use this dataset in your research:
 
+```bibtex
 @article{sitoula2025nepemo,
   title={NepEMO: A Multi-Label Emotion and Sentiment Analysis on Nepali Reddit with Linguistic Insights and Temporal Trends},
   author={Sitoula, Sameer and Shahi, Tej Bahadur and Bhatt, Laxmi Prasad and Pokhrel, Anisha and Neupane, Arjun},
